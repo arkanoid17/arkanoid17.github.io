@@ -82423,7 +82423,7 @@ for(e=j.length,p=t.j,o=q.e,i=0;i<j.length;j.length===e||(0,A.G)(j),++i){h=j[i]
 if(B.b.gai(h.b.b.a)==="skills"){g=h.Zj(0)
 for(n=new A.e2(g,g.r,g.e);n.v();){m=n.d
 f=g.h(0,m)
-if(p.b(f))o.bW(0,m,new A.amv(f))}}}q.al(new A.amw(q))
+if(p.b(f))o.bW(0,m,new A.amv(f))}}}if(q.c!=null)q.al(new A.amw(q))
 return A.N(null,r)}})
 return A.O($async$xz,r)},
 I(a){return new A.kp(new A.amu(this,a),null)},
