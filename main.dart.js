@@ -81703,12 +81703,12 @@ A.rg.prototype={
 I(a){var s,r=null,q=this.c,p=q.b<600,o=p?new A.bc(r,r,r,r):A.b3("Hello, I'm ",r,r,r,B.Io.h(0,A.d1(q)),r,r,r)
 p=p?B.Rk:B.RR
 s=t.p
-return A.c2(A.b([B.Bl,B.bg,A.dc(A.b([o,new A.IJ(B.ng,p,"Arkaprabha Mahata",r)],s),B.F,B.v,B.u),B.bg,A.b3("Hi, I am seasoned developer familiar with Mobile development technologies like Android, flutter but also well versed in backend with python, Django  and MySQL. I am currently working for Thriwin.io as a software developer. Welcome to my personal website and explore my work, skills and feel free to reach out. Thank you.",r,r,r,B.cM.h(0,A.d1(q)),r,r,r),B.b0,A.dc(A.b([new A.od("View projects",new A.a2u(),r,r),B.bq,new A.Kb(new A.a2v(),r,r,r,r,r,r,!1,r,!0,r,A.b3("View CV",r,r,r,B.bG,r,r,r),r)],s),B.F,B.v,B.u)],s),B.a2,B.v,B.u)}}
+return A.c2(A.b([B.Bl,B.bg,A.dc(A.b([o,new A.IJ(B.ng,p,"Arkaprabha Mahata",r)],s),B.F,B.v,B.u),B.bg,A.b3("Hi, I am seasoned developer familiar with Mobile development technologies like Android, flutter but also well versed in backend with python, Django  and MySQL. I am currently working for Thriwin.io as a software developer. Welcome to my personal website and explore my work, skills and feel free to reach out. Thank you.",r,r,r,B.cM.h(0,A.d1(q)),r,r,r),B.b0,A.dc(A.b([new A.od("View projects",new A.a2u(),r,r),B.bq,new A.Kb(new A.a2v(),r,r,r,r,r,r,!1,r,!0,r,A.b3("View R\xe9sum\xe9",r,r,r,B.bG,r,r,r),r)],s),B.F,B.v,B.u)],s),B.a2,B.v,B.u)}}
 A.a2u.prototype={
 $0(){},
 $S:42}
 A.a2v.prototype={
-$0(){return A.qq("https://firebasestorage.googleapis.com/v0/b/recipe-app-910bd.appspot.com/o/ARKAPRABHA_RESUME.pdf?alt=media&token=92a13d45-d208-4131-b426-352931fb4796")},
+$0(){return A.qq("https://firebasestorage.googleapis.com/v0/b/recipe-app-910bd.appspot.com/o/ARKAPRABHA_MAHATA_RESUME.pdf?alt=media&token=13e8b4c3-24b8-46f9-a235-10a857b803ce")},
 $S:0}
 A.rh.prototype={
 I(a){var s=this.gLj()
